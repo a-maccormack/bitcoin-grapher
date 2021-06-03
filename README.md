@@ -7,3 +7,7 @@ This is a simple application that was made in order to graph the price of Bitcoi
 
 ### [ESP]: ###
 Esta es un script simple que grafica el precio de Bitcoin en el último mes. Utiliza el API de [CoinDesk](https://api.coindesk.com/v1/bpi/historical/close.json "CoinDesk") API. Los graficos utilizados son del modulo [Matplotlib](https://matplotlib.org/ "MatplotLib").
+
+
+## Project Date: ##
+June 19th, 2020
